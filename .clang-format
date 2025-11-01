@@ -1,0 +1,13 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+TabWidth: 4
+ColumnLimit: 0
+NamespaceIndentation: All
+PointerAlignment: Left
+AllowShortIfStatementsOnASingleLine: true
+AlignConsecutiveAssignments: Consecutive
+Cpp11BracedListStyle: false
+IndentPPDirectives: AfterHash
+IndentCaseBlocks: true
+EmptyLineBeforeAccessModifier: LogicalBlock
+Standard: c++23
